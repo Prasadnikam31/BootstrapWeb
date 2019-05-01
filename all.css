@@ -1,0 +1,27 @@
+.jumbotron{
+	background-color: blue;
+	width: 1200px;
+	margin: 5px auto 0px auto;
+}
+h1{
+	font-style: arial;
+}
+
+
+#search{
+	font-size: 20px;
+	width:400px;
+}
+button{
+	size: 100px;
+	float: right;
+
+
+}
+.nav{
+	background-color: black;
+	padding: 10px;
+}
+tbody{
+	font-size: 15px;
+}
